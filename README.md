@@ -10,7 +10,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center"> Para visualizar o projeto no seu navegador:
-  <a href="<a href="#-tecnologias">Tecnologias</a>">Clique Aqui</a>
+  < href="<a href="https://cartao-de-visita-washiner.netlify.app/">Clique aqui</a>
 </p>
 
 <br>
