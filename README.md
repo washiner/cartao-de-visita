@@ -10,7 +10,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center"> Para visualizar o projeto no seu navegador clique aqui
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://cartao-de-visita-washiner.netlify.app/">
 </p>
 
 <br>
