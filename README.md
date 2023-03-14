@@ -9,8 +9,8 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center"> Para visualizar o projeto no seu navegador clique aqui
-  <img alt="License" src="https://cartao-de-visita-washiner.netlify.app/">
+<p align="center"> Para visualizar o projeto no seu navegador:
+  <a href="<a href="#-tecnologias">Tecnologias</a>">Clique Aqui</a>
 </p>
 
 <br>
