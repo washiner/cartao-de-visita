@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um curso gratuito da Rocktseat onde aprimorei meus conhecimentos em html, css e javascript colocando em prática varios conceitos como funções, manipulação de Dom estilização de textos e atributos entre outros.
+aprimorei meus conhecimentos em html, css e javascript colocando em prática vários conceitos como funções, manipulação de DOM estilização de textos e atributos entre outros.
 
 ## 🔖 Layout
 
